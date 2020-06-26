@@ -1,24 +1,12 @@
-# README
+# RailS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Ruby on Rails application with MongoDB support.
 
-Things you may want to cover:
+This app uses Ruby 2.7.0 and Rails 6.0.3
 
-* Ruby version
+## Running
+- Run `bundle install` to get started.
+- Once all Gems have been installed, run `rails s` to start.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Endpoints
+`/posts` - View all posts
